@@ -1,0 +1,6 @@
+*.pyc
+
+*.wpr
+
+# All directories are virtualenvs, don't save to repo
+*/
