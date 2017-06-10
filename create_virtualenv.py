@@ -2,7 +2,7 @@ import os
 
 import virtualenv
 
-name = 'default'
+name = 'pygame_env'
 
 
 path = os.path.join(os.path.dirname(__file__), name)
